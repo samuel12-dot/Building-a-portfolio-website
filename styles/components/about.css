@@ -139,7 +139,7 @@
     }
 
     .about__title {
-        font-size: var(--size-6xl);
+        font-size: var(--size-5xl);
     }
     
     .about__description {
@@ -169,21 +169,21 @@
     }
 
     .about__title {
-        font-size: var(--size-5xl);
+        font-size: var(--size-6xl);
     }
     
     .about__description {
-        font-size: var(--size-xl);
+        font-size: var(--size-2xl);
     }
 
     
     .about__subtitle {
-        font-family: var(--size-xl);
+        font-family: var(--size-2xl);
     }
     
     
     .about__list {
-        font-size: var(--size-2xl);
+        font-size: var(--size-3xl);
     }
 
     .about__img {
