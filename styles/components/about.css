@@ -139,6 +139,36 @@
     }
 
     .about__title {
+        font-size: var(--size-6xl);
+    }
+    
+    .about__description {
+        font-size: var(--size-xl);
+    }
+
+    
+    .about__subtitle {
+        font-family: var(--size-xl);
+    }
+    
+    
+    .about__list {
+        font-size: var(--size-2xl);
+    }
+
+    .about__img {
+        width: 35.75rem;
+    }
+
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+    .about__content {
+        gap: 2rem;
+    }
+
+    .about__title {
         font-size: var(--size-5xl);
     }
     
@@ -153,16 +183,10 @@
     
     
     .about__list {
-        font-size: var(--size-xl);
+        font-size: var(--size-2xl);
     }
 
     .about__img {
-        width: 30.75rem;
+        width: 35.75rem;
     }
-
 }
-
-/* 2xl */
-/* @media (min-width: 1536px) {
-
-} */

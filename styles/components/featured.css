@@ -124,6 +124,23 @@
 }
 
 /* 2xl */
-/* @media (min-width: 1536px) {
-
-} */
+@media (min-width: 1536px) {
+    .featured__subtitle {
+        font-size: var(--size-xl);
+    }
+    .featured__title {
+        font-size: var(--size-5xl);
+    }
+    .featured__link {
+        width: var(--size-5xl);
+        height: var(--size-5xl);
+    }
+    .featured__description {
+        font-size: var(--size-xl);
+        margin: 2rem 0;
+    }
+    .featured__img-container {
+        margin-top: 2rem;
+        grid-gap: 2rem;
+    }
+}

@@ -230,4 +230,28 @@
         width: 70%;
         margin: 0 auto;
     }
+    .work__title {
+        font-size: var(--size-5xl);
+    }
+    .work__description {
+        font-size: var(--size-xl);
+        margin: 2rem auto;
+    }
+    .work__project-description1 {
+        font-size: var(--size-lg);
+
+    }
+    .work__project-description2 {
+        font-size: var(--size-lg);
+    }
+    .work__project-btn {
+        font-size: var(--size-lg);
+    }
+    .work__project-subtitle{
+        font-size: var(--size-2lg);
+    }
+    .work__container {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
