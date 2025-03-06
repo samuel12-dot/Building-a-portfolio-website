@@ -27,7 +27,7 @@
 }
 
 .about__subtitle {
-    font-family: var(--size-sm);
+    font-size: var(--size-sm);
     color: var(--clr-slate400);
 }
 
@@ -75,7 +75,7 @@
 
     
     .about__subtitle {
-        font-family: var(--size-base);
+        font-size: var(--size-base);
     }
     
     
@@ -120,7 +120,7 @@
 
     
     .about__subtitle {
-        font-family: var(--size-lg);
+        font-size: var(--size-lg);
     }
     
     
@@ -148,7 +148,7 @@
 
     
     .about__subtitle {
-        font-family: var(--size-xl);
+        font-size: var(--size-2xl);
     }
     
     
@@ -178,12 +178,12 @@
 
     
     .about__subtitle {
-        font-family: var(--size-2xl);
+        font-size: var(--size-3xl);
     }
     
     
     .about__list {
-        font-size: var(--size-3xl);
+        font-size: var(--size-2xl);
     }
 
     .about__img {
