@@ -85,12 +85,12 @@
     }
     
     .contact__title {
-        font-size: var(--size-5xl);
+        font-size: var(--size-6xl);
     }
     .contact__description {
-        font-size: var(--size-xl);
+        font-size: var(--size-2xl);
     }
     .contact__btn {
-        font-size: var(--size-xl);
+        font-size: var(--size-2xl);
     }
 }
